@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.carddd{
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+    padding-top: 30px;
+}
+body{
+    background-color: #222;
+}
+img{
+    display: block;
+
+}
+h2{
+    padding: 15px;
+    color: azure;
+}
+.img{
+    width: 400px;
+
+}
+.card{
+    width: 400px;
+    height: 535px;
+    background-color: #191414b6;
+    border-bottom: 3px solid  chartreuse ;
+}
+.p{
+    padding-left: 15px;
+    color: darkgray ;
+}
+.a{
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+.b{
+    color:  chartreuse;
+    text-decoration: none;
+}
+.cardd_2{
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
